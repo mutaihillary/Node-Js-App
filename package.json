@@ -1,4 +1,27 @@
 {
   "name": "node-booklet-code",
-  "main": "server.js"
+  "version": "1.0.0",
+  "description": "Node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mutaihillary/Node-Js-App"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutaihillary/Node-Js-App/issues"
+  },
+  "homepage": "https://github.com/mutaihillary/Node-Js-App/#READme",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.1",
+    "instagram-node": "^0.5.6"
+  }
 }
+
+
