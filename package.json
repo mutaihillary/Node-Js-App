@@ -18,10 +18,8 @@
   },
   "homepage": "https://github.com/mutaihillary/Node-Js-App/#READme",
   "dependencies": {
-    "ejs": "^2.3.1",
-    "express": "^4.12.1",
-    "instagram-node": "^0.5.6"
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "instagram-node": "^0.5.8"
   }
 }
-
-
